@@ -1,4 +1,4 @@
-# wemos_Pubsub_Temp_Lights_cloudmqtt
+# wemos_Pubsub_Temp_LivingRoom_Lights_cloudmqtt
 Arduino sketch used for sending / receiving commands to turn living room and Temperature/ humidity to Broker
 
 User has to change the Userid/Password of the router to be connected, and also enter the credentials of the broker in the Arduino sketch.
