@@ -9,7 +9,7 @@ The uC is also connected to a DHT11 Temperature and Humidity sensor and sends da
 
 The broker can also be used to publish messages downstream to the controller to turn lights on or off.
 
-The CONTROL_LIGHTS Pin 14 onboard the Wemos D1 R1 is initially turned off as I dont want to trigger the SSR to turn on the 220v/240 Living room lights on.
+The CONTROL_LIGHTS Pin 14 ( Pin D5) onboard the Wemos D1 R1 is initially turned off as I dont want to trigger the SSR to turn on the 220v/240 Living room lights on.
 
 The onboard LED is off until the unit connects to the router ( another indicator that the connection is not done when connected )
 
